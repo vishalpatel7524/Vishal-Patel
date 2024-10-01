@@ -1,23 +1,22 @@
-![logo]([[https://www.google.com/imgres?q=python%20developer%20bannr&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fpython-programming-language-programing-workflow-260nw-1846209262.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fpython-developer&docid=NHHFFGu1-xhgyM&tbnid=uqQ-ssn3z1ODsM&vet=12ahUKEwjjtfOa8-2IAxUtcfUHHRmWFCoQM3oECBsQAA..i&w=530&h=280&hcb=2&ved=2ahUKEwjjtfOa8-2IAxUtcfUHHRmWFCoQM3oECBsQAA](https://www.shutterstock.com/image-photo/python-programming-language-programing-workflow-abstract-1846209262)](https://learn.temporal.io/getting_started/python/dev_environment/))
+
 <h1 align="center">Hi 👋, I'm Vishal Patel</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalpatel7524&label=Profile%20views&color=0e75b6&style=flat" alt="vishalpatel7524" /> </p>
 
-- 🔭 I’m currently working on Main Flow Services and Technology Pvt. Ltd. **Responsive Full Website**
+- 🔭 I’m currently working on Main Flow Services and Technology Pvt. Ltd. **Internship Web Development**
 
-- 🌱 I’m currently Pursuing Diploma in Information Technology **Python with Django**
+- 🌱 I’m currently Pursuing Diploma in Information Technology **Government Polytechnic Ghaziabad**
 
-- 👨‍💻 All of my projects are available at [https://codervishal.pythonanywhere.com/](https://codervishal.pythonanywhere.com/)
+- 👨‍💻 My Portfolio are available at [https://codervishal.pythonanywhere.com/](https://codervishal.pythonanywhere.com/)
 
-- 💬 Ask me about **I am a Frontend & Backend Developer with Database**
+- 💬 Ask me about **I am a Frontend & Backend Web Developer with Database**
 
 - 📫 How to reach me **patelvishal7524@gmail.com**
 
-- 📄 Know about my experiences [Intern in Main Flow Services and Technology Pvt. Ltd. & Complete our Web Development Trainee from Techpile Technology Pvt. Ltd.](Intern in Main Flow Services and Technology Pvt. Ltd. & Complete our Web Development Trainee from Techpile Technology Pvt. Ltd.)
-
+- 📄 Know about my experiences [Intern in Main Flow Services and Technology Pvt. Ltd. & Complete our Web Development Trainee from Techpile Technology Pvt. Ltd.]
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
